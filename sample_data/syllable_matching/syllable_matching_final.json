@@ -1,0 +1,5671 @@
+{
+    "elements":[
+        {
+            "name": "Mais",
+            "picturePath" : "graphics/word_pictures/mais.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Mais",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Reis",
+            "picturePath" : "graphics/word_pictures/reis.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Reis",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Kohl",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Kohl",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Mehl",
+            "picturePath" : "graphics/word_pictures/mehl.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Mehl",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Salz",
+            "picturePath" : "graphics/word_pictures/salz.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Salz",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Fisch",
+            "picturePath" : "graphics/word_pictures/fische.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Fisch",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Wein",
+            "picturePath" : "graphics/word_pictures/wein.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Wein",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Brot",
+            "picturePath" : "graphics/word_pictures/brot.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Brot",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Ei",
+            "picturePath" : "graphics/word_pictures/ei_1.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Ei",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Nuss",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Nuss",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Eis",
+            "picturePath" : "graphics/word_pictures/eis_1.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Eis",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Pilz",
+            "picturePath" : "graphics/word_pictures/pilz_1.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Pilz",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Brei",
+            "picturePath" : "graphics/word_pictures/brei.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Brei",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Tee",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Tee",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Öl",
+            "picturePath" : "graphics/word_pictures/oel.jpg",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Öl",
+                "color": "Red"}
+            ]
+        },
+
+        {
+            "name": "Apfel",
+            "picturePath" : "graphics/word_pictures/apfel.jpg",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Ap",
+                "color": "Red"},
+                {"syllable": "fel",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Birne",
+            "picturePath" : "graphics/word_pictures/birne.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Bir",
+                "color": "Red"},
+                {"syllable": "ne",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Pflaume",
+            "picturePath" : "graphics/word_pictures/pflaume.jpg",
+            "classId" : 2,
+            "syllables": [0,5],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Pflau",
+                "color": "Red"},
+                {"syllable": "me",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Kirsche",
+            "picturePath" : "graphics/word_pictures/kirsche.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Kir",
+                "color": "Red"},
+                {"syllable": "sch",
+                 "color": "Purple"},
+                {"syllable": "e",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Traube",
+            "picturePath" : "graphics/word_pictures/traube.jpg",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Trau",
+                "color": "Red"},
+                {"syllable": "be",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Mandel",
+            "picturePath" : "graphics/word_pictures/mandel.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Man",
+                "color": "Red"},
+                {"syllable": "del",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Erbse",
+            "picturePath" : "graphics/word_pictures/erbse.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Erb",
+                "color": "Red"},
+                {"syllable": "se",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Linse",
+            "picturePath" : "graphics/word_pictures/linsen.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Lin",
+                "color": "Red"},
+                {"syllable": "se",
+                "color": "Blue"}
+            ]
+        },
+        
+
+        {
+            "name": "Kuchen",
+            "picturePath" : "graphics/word_pictures/kuchen.jpg",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Ku",
+                "color": "Red"},
+                {"syllable": "ch",
+                 "color": "Purple"},
+                {"syllable": "en",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Käse",
+            "picturePath" : "graphics/word_pictures/kaese.jpg",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Kä",
+                "color": "Red"},
+                {"syllable": "se",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Gurke",
+            "picturePath" : "graphics/word_pictures/gurke.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Gur",
+                "color": "Red"},
+                {"syllable": "ke",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Nudel",
+            "picturePath" : "graphics/word_pictures/nudel.jpg",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Nu",
+                "color": "Red"},
+                {"syllable": "del",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Spargel",
+            "picturePath" : "graphics/word_pictures/spargel_1.jpg",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Spar",
+                "color": "Red"},
+                {"syllable": "gel",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Suppe",
+            "picturePath" : "graphics/word_pictures/suppe.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Su",
+                "color": "Red"},
+                {"syllable": "pp",
+                "color": "Purple"},
+                {"syllable": "e",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Wasser",
+            "picturePath" : "graphics/word_pictures/wasser.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Wa",
+                "color": "Red"},
+                {"syllable": "ss",
+                 "color": "Purple"},
+                {"syllable": "er",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Butter",
+            "picturePath" : "graphics/word_pictures/butter_2.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Bu",
+                "color": "Red"},
+                {"syllable": "tt",
+                 "color": "Purple"},
+                {"syllable": "er",
+                "color": "Blue"}
+            ]
+        },
+
+        
+
+        {
+            "name": "Zwiebel",
+            "picturePath" : "graphics/word_pictures/zwiebel.jpg",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Zwie",
+                "color": "Red"},
+                {"syllable": "bel",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Peffer",
+            "picturePath" : "graphics/word_pictures/pfeffer.jpg",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Pfe",
+                "color": "Red"},
+                {"syllable": "ff",
+                 "color": "Purple"},
+                {"syllable": "er",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Hummer",
+            "picturePath" : "graphics/word_pictures/hummer_1.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Hu",
+                "color": "Red"},
+                {"syllable": "mm",
+                 "color": "Purple"},
+                {"syllable": "er",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Waffel",
+            "picturePath" : "graphics/word_pictures/waffeln.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Wa",
+                "color": "Red"},
+                {"syllable": "ff",
+                 "color": "Purple"},
+                {"syllable": "el",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Brötchen",
+            "picturePath" : "graphics/word_pictures/broetchen.jpg",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Bröt",
+                "color": "Red"},
+                {"syllable": "ch",
+                 "color": "Purple"},
+                {"syllable": "en",
+                "color": "Blue"}
+            ]
+        },
+
+       
+
+        {
+            "name": "Schinken",
+            "picturePath" : "graphics/word_pictures/schinken_2.jpg",
+            "classId" : 2,
+            "syllables": [0,5],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Schin",
+                "color": "Red"},
+                {"syllable": "ken",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Torte",
+            "picturePath" : "graphics/word_pictures/torte.jpg",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Tor",
+                "color": "Red"},
+                {"syllable": "te",
+                "color": "Blue"}
+            ]
+        },
+
+        {
+            "name": "Zucker",
+            "picturePath" : "graphics/word_pictures/zucker.jpg",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "FOOD",
+            "syllablesColor":[
+                {"syllable": "Zu",
+                "color": "Red"},
+                {"syllable": "ck",
+                "color": "Purple"},
+                {"syllable": "er",
+                "color": "Blue"}
+            ]
+        },
+
+       
+        {
+            "name": "Zitrone",
+            "picturePath" : "graphics/word_pictures/zitrone.jpg",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Banane",
+            "picturePath" : "graphics/word_pictures/banane_1.jpg",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Melone",
+            "picturePath" : "graphics/word_pictures/melone.jpg",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Tomate",
+            "picturePath" : "graphics/word_pictures/tomate.jpg",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Paprika",
+            "picturePath" : "graphics/word_pictures/paprika_1.jpg",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kartoffel",
+            "picturePath" : "graphics/word_pictures/kartoffeln.jpg",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kokosnuss",
+            "picturePath" : "graphics/word_pictures/kokosnuss.jpg",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Haselnuss",
+            "picturePath" : "graphics/word_pictures/haselnuss.jpg",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Fischstäbchen",
+            "picturePath" : "graphics/word_pictures/fischstaebchen.jpg",
+            "classId" : 3,
+            "syllables": [0,5,9],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Rosine",
+            "picturePath" : "graphics/word_pictures/rosinen.jpg",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Rosenkohl",
+            "picturePath" : "graphics/word_pictures/rosenkohl.jpg",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Blumenkohl",
+            "picturePath" : "graphics/word_pictures/blumenkohl.jpg",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kohlrabi",
+            "picturePath" : "graphics/word_pictures/kohlrabi.jpg",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Knäckebrot",
+            "picturePath" : "graphics/word_pictures/knaeckebrot.jpg",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kaugummi",
+            "picturePath" : "graphics/word_pictures/kaugummi.jpg",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Praline",
+            "picturePath" : "graphics/word_pictures/pralinen.jpg",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Salami",
+            "picturePath" : "graphics/word_pictures/salami.jpg",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Limette",
+            "picturePath" : "graphics/word_pictures/limette.jpg",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Forelle",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Weintraube",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,8],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Blattspinat",
+            "picturePath" : "graphics/word_pictures/spinat.jpg",
+            "classId" : 3,
+            "syllables": [0,5,8],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Schokolade",
+            "picturePath" : "graphics/word_pictures/schokolade_2.jpg",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Mandarine",
+            "picturePath" : "graphics/word_pictures/mandarine_1.jpg",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Apfelsine",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Marmelade",
+            "picturePath" : "graphics/word_pictures/marmelade.jpg",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Haferflocken",
+            "picturePath" : "graphics/word_pictures/haferflocken.jpg",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Tomatenmark",
+            "picturePath" : "graphics/word_pictures/tomatensauce.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Gummibärchen",
+            "picturePath" : "graphics/word_pictures/gummibaerchen.jpg",
+            "classId" : 4,
+            "syllables": [0,3,5,8],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bananenbrot",
+            "picturePath" : "graphics/word_pictures/bananenbrot.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Basilikum",
+            "picturePath" : "graphics/word_pictures/basilikum.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Nudelauflauf",
+            "picturePath" : "graphics/word_pictures/nudelauflauf.jpg",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Limonade",
+            "picturePath" : "graphics/word_pictures/limonade.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Käsekuchen",
+            "picturePath" : "graphics/word_pictures/kaesekuchen.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Apfelkuchen",
+            "picturePath" : "graphics/word_pictures/apfelkuchen.jpg",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Nektarine",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Aprikose",
+            "picturePath" : "graphics/word_pictures/aprikose_1.jpg",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Streuselkuchen",
+            "picturePath" : "graphics/word_pictures/streuselkuchen.jpg",
+            "classId" : 4,
+            "syllables": [0,5,8,10],
+            "wordType": "FOOD",
+            "syllablesColor":[]
+        },     
+
+        {
+            "name": "Baum",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+       },
+
+       {
+            "name": "Maus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Gans",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Buch",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Ball",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "warm",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "kalt",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "blau",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "rot",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "gelb",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "grün",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Haus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Punkt",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bild",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Wald",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Wal",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "klein",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bein",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Uhr",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Fuß",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Spaß",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Geld",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "braun",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Blatt",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Gras",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Feld",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Schuh",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kuh",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Wurm",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Sturm",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Wind",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kind",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Post",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bär",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Haus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kleid",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Pferd",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Boot",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Plan",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Hund",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Tisch",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Fisch",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Herz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kreis",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Tor",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Zwerg",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Stein",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Kopf",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Topf",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Schrank",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bett",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Knopf",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Traum",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Prinz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Hand",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Ohr",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Spiel",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Nest",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Stift",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Wald",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Zaun",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Bank",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Schiff",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Regen",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pause",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schere",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pudel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hose",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Dose",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rose",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Riese",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lupe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hase",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Nase",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Linse",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Auge",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flöte",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Geige",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mantel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kerze",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wolke",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Stempel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Palme",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Zunge",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Finger",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tulpe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blume",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ente",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Biene",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ziege",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hafen",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Faden",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Laden",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Feder",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lager",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regal",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ritter",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Monster",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wasser",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Messer",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Krone",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Puppe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sonne",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Affe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mappe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Essen",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hummel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Muschel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Freunde",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kanal",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Delfin",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fabrik",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flasche",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "fliegen",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fußball",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+        {
+            "name": "Hexe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Garten",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kreide",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Märchen",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rucksack",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sommer",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sandburg",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tafel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Katze",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schaukel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schwimmbad",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hütte",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Spielzeug",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gabel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Löffel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Nagel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rutsche",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Auto",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Traktor",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "König",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Würfel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gurke",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pinsel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kasten",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kugel",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Zebra",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flugzeug",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+        {
+            "name": "Fallschirm",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kreuzung",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schreibtisch",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sportplatz",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Winter",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "rosa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "lila",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sofa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fahrrad",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+        
+        {
+            "name": "Besenstiel",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Eisdiele",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ferien",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flughafen",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flaschenpost",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Farbkasten",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Forelle",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Giraffe",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gardine",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hexenhaus",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kuscheltier",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kalender",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Krokodil",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lastwagen",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Pferdestall",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Papagei",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regenwurm",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regenschirm",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regenwald",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Segelboot",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Stundenplan",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wasserfall",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Dachboden",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wasserhahn",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+        {
+            "name": "Blaumeise",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gorilla",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kamera",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kindersitz",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sandkasten",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schaukelpferd",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Schlafzimmer",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Königin",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Polizist",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rakete",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Telefon",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bikini",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Eskimo",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Laterne",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fallschirmsprung",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pelikan",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kanone",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Domino",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Automat",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Medizin",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Apfelbaum",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Taschentuch",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hubschrauber",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Landebahn",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tagebuch",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Hosenknopf",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bilderbuch",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blumenstrauß",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kerzenlicht",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lichtschalter",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,5,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mikrofon",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Geschichte",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Handtasche",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fußballspiel",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gartenschlauch",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Picknickdecke",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,8,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Motorrad",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gartenzaun",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Autobahn",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Prinzessin",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Zauberer",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kartenspiel",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Turnschuhe",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Turnhalle",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fußballfeld",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Anhänger",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schaukelstuhl",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schmetterling",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wasserhahn",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schwimmflügel",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,7,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bienenstich",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schwimmbecken",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,7,11],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Unterhemd",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sonnenbrand",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Körperteil",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kaninchen",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Enkelkind",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Autoreifen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Einkaufswagen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,8,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fernbedienung",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flugzeugabsturz",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,8,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Frühlingsblume",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,9,12],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gummibären",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kindergarten",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kleiderbügel",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,7,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regenbogen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Salamander",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schokolade",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schraubenzieher",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,6,9,13],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tafelkreide",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Unterhose",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kellertreppe",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rasenmäher",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sonnenblume",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Badezimmer",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Badehose",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Badewanne",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wäscheleine",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gänseblümchen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kaminfeuer",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Waschmaschine",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,5,7,11],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Duschkabine",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,5,7,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mikrowelle",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sonnentage",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tiergehege",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fallschirmspringer",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,10,16],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regentonne",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Papierrolle",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gartenmöbel",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Spielzeugauto",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,5,9,11],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Modellflugzeug",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,6,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sonnenbrille",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fingerabdruck",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gummistiefel",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Taschenlampe",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,7,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Sommerwetter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bilderrahmen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fußballspieler",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,7,11],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blumenvase",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kinderwagen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wellensittich",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regenwolke",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+        },
+
+        {
+            "name": "Piratenschiff",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Manteltasche",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gartenwerkzeug",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Werkzeugkasten",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,8,11],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blumenkasten",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fensterrahmen",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,7,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Motorradhelm",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bademantel",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blumenwiese",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Zauberwürfel",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gartenhütte",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gästehandtuch",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,9],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tagesausflug",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Regentonne",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Badeanzug",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fliegengitter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,7,10],
+            "wordType": "NORMAL",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bas",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mert",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Kas",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Bos",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Tok",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Lak",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Rus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Nol",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Kos",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Gins",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Wont",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Port",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Hiel",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Don",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Sir",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Hist",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Korf",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Mos",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Lof",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Nal",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Boll",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Well",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Lurz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Res",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Srep",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Lerz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Perst",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Sturn",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Wern",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Nerz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Bull",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Rell",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Frunz",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Preil",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Mus",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Knee",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Went",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Klu",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Mul",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Forms",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Bra",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Amuk",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Plam",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Bor",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Daum",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Blom",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Dorp",
+            "picturePath" : "",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lima",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "More",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kane",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rabu",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lamo",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Taro",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Tigas",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rilu",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Misa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wito",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rabor",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Bonig",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Figit",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Litus",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kines",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lokis",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mosi",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lape",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rupe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Resa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lura",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pase",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rege",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Albe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Urmo",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mule",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rusa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Role",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mese",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+
+        {
+            "name": "Wake",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ransa",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lase",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Nupo",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rela",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Toro",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Leime",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Parek",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lanter",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pubim",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ampol",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ormas",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kelbe",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Emte",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Eltom",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kisum",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Reka",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Segeti",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lesate",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kalorum",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hasatu",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "finolak",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lenarob",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "pitorem",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "rastos",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Katibun",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Schabora",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "banofas",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rogamus",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "panerot",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "keilato",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lamese",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "kobate",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Falemon",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kenobo",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Narase",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mironso",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Framese",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lunane",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wattersee",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Garsenton",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "lisate",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mullenten",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Beisellen",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Leisterung",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mesonner",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hernennen",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Leimerei",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Musone",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hamauke",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Saferung",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Balemann",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Masete",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Reisterung",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Helparung",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,3,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kalanter",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Musitum",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kobali",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Baberne",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pabeka",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Dolete",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mabelrank",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Metrone",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lilone",
+            "picturePath" : "",
+            "classId" : 3,
+            "syllables": [0,2,4],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Surobani",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Amsetranke",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pinazero",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gamenule",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Garibato",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Omkafilo",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Hifaronus",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Golatuse",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Floganute",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Flegunati",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wupondari",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Holifernes",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ensiwiemur",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Selanpugo",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Faligute",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Reimeisterin",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,7,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Finabero",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Limasterung",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Finkengoter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Geimerleister",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,10],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kreuzenleister",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,7,11],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ponesagung",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Weimipise",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Merkrazise",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Geweisterung",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,6,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Ankrimeier",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Rusafenster",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Gersenresa",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Mareinese",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Frintropope",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,4,7,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fersentrister",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,10],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Poselagung",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Eisterrenter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,6,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Olsenkule",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Blufenkolle",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Lagenfunke",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kamesakal",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wolterrinse",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,9],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Liborisse",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Feransiede",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,5,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Wunterlade",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,3,6,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Leferwake",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Resenfinner",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Baroleter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Fidesone",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Pasononter",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,7],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        },
+
+        {
+            "name": "Kibasotum",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,4,6],
+            "wordType": "PSEUDO",
+            "syllablesColor":[]
+
+        }
+    ]
+
+
+
+
+
+}

@@ -1,0 +1,293 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Feder",
+      "picturePath": "graphics/word_pictures/feder.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Feder.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fe",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lupe",
+      "picturePath": "graphics/word_pictures/lupe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Lupe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Lu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Laden",
+      "picturePath": "graphics/word_pictures/laden.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Laden.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "La",
+          "colour": "Black"
+        },
+        {
+          "syllable": "den",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Faden",
+      "picturePath": "graphics/word_pictures/faden.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Faden.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "den",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lager",
+      "picturePath": "graphics/word_pictures/lager.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Lager.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "La",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ger",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Elefant",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Elefant",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Einaufswagen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Einkaufs",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Farbeimer",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Farb",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ei",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lastwagen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Last",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lagerhalle",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "La",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ger",
+          "colour": "Black"
+        },
+        {
+          "syllable": "hal",
+          "colour": "Black"
+        },
+        {
+          "syllable": "le",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lampenschirm",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Lam",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schirm",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Ladekabel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "La",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ka",
+          "colour": "Black"
+        },
+        {
+          "syllable": "bel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Feuerwehr",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Feu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "er",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wehr",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Enkelkind",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "En",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kel",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kind",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Feierabend",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fei",
+          "colour": "Black"
+        },
+        {
+          "syllable": "er",
+          "colour": "Black"
+        },
+        {
+          "syllable": "a",
+          "colour": "Black"
+        },
+        {
+          "syllable": "bend",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

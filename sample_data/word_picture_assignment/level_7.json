@@ -1,0 +1,313 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Runde",
+      "picturePath": "graphics/word_pictures/runde.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Runde.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Run",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Tinte",
+      "picturePath": "graphics/word_pictures/tinte.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Tinte.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Tin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kinder",
+      "picturePath": "graphics/word_pictures/kinder.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kinder.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Harfe",
+      "picturePath": "graphics/word_pictures/harfe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Harfe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Har",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Falke",
+      "picturePath": "graphics/word_pictures/falke.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Falke.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fal",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ke",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Sommerferien",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Som",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ferien",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Weihnachtsmann",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Weih",
+          "colour": "Black"
+        },
+        {
+          "syllable": "nachts",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mann",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Wasserrutsche",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Was",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ser",
+          "colour": "Black"
+        },
+        {
+          "syllable": "rut",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sche",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Unterhose",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Un",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ho",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lichterkette",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Lich",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ket",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Schuhkarton",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Schuh",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ton",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Erdbeerkuchen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Erd",
+          "colour": "Black"
+        },
+        {
+          "syllable": "beer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ku",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Profifußballer",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pro",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fi",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fuß",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ball",
+          "colour": "Black"
+        },
+        {
+          "syllable": "er",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hexenhaus",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Hex",
+          "colour": "Black"
+        },
+        {
+          "syllable": "en",
+          "colour": "Black"
+        },
+        {
+          "syllable": "haus",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Märchenbuch",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Mär",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "buch",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

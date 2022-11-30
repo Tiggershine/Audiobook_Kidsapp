@@ -1,0 +1,81 @@
+{
+  "instructionId": 1,
+  "instructionTitle": "Whale",
+  "instructionStepCount": 10,
+  "instructionDifficulty": 3,
+  "instructionCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_thumbnail.png",
+  "materials": ["A piece of paper", "A pen or pencil", "Scissors"],
+  "steps":
+  [
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_01.png",
+      "stepDescription": "Fold a square **piece of paper** along BE and BF so that edges BA and BC meet at center line BD.",
+      "stepMaterials": ["A piece of paper"],
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_02.png",
+      "stepDescription": "Fold along GD and HD so that ED and FD meet at center line BD.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_03.png",
+      "stepDescription": "Pull out corners A and C so that they meet at center line BD.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_04.png",
+      "stepDescription": "Fold back along MN and OP so that G and H meet at center line on the other side.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_05.png",
+      "stepDescription": "Fold in half along BD to make the body.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "To make the fins, fold at QR.",
+      "stepMaterials": ["Scissors"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "Bringing corner C downward and away from the body. Do the same for the other side.",
+      "stepMaterials": ["Scissors"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "To make the tail, fold back along ST and UV, and then **using scissors** cut along X and SD.",
+      "stepMaterials": ["Scissors"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_07.png",
+      "stepDescription": "Open Dl and D2 at VU.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_08.png",
+      "stepDescription": "Draw the mouth and eyes with your **pen or pencle**.",
+      "stepMaterials": ["A pen or pencil"],
+      "stepNeedsParents": "false"
+    }
+  ]
+}

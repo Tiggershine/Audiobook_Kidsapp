@@ -1,0 +1,247 @@
+[
+  {
+    "picture": "",
+    "letters": ["au", "ei"],
+    "beginning": "Wein",
+    "middle": "trau",
+    "end": "be"
+  },
+  {
+    "picture": "graphics/word_pictures/hase.jpg",
+    "letters": ["s"],
+    "beginning": "Ha",
+    "middle": "",
+    "end": "se"
+  },
+  {
+    "picture": "graphics/word_pictures/schuhe.jpg",
+    "letters": ["u"],
+    "beginning": "Schuh",
+    "middle": "",
+    "end": "e"
+  },
+  {
+    "picture": "graphics/word_pictures/wasser.jpg",
+    "letters": ["w"],
+    "beginning": "Was",
+    "middle": "",
+    "end": "ser"
+  },
+  {
+    "picture": "graphics/word_pictures/rose.jpg",
+    "letters": ["r"],
+    "beginning": "Ro",
+    "middle": "",
+    "end": "se"
+  },
+  {
+    "picture": "graphics/word_pictures/loeffel.jpg",
+    "letters": ["L"],
+    "beginning": "Löf",
+    "middle": "",
+    "end": "fel"
+  },
+  {
+    "picture": "graphics/word_pictures/lupe.jpg",
+    "letters": ["p"],
+    "beginning": "Lu",
+    "middle": "",
+    "end": "pe"
+  },
+  {
+    "picture": "graphics/word_pictures/mantel.jpg",
+    "letters": ["M"],
+    "beginning": "Man",
+    "middle": "",
+    "end": "tel"
+  },
+  {
+    "picture": "graphics/word_pictures/auge_1.jpg",
+    "letters": ["g"],
+    "beginning": "Au",
+    "middle": "",
+    "end": "ge"
+  },
+  {
+    "picture": "graphics/word_pictures/kiste.jpg",
+    "letters": ["t"],
+    "beginning": "Kis",
+    "middle": "",
+    "end": "te"
+  },
+  {
+    "picture": "graphics/word_pictures/tasse.jpg",
+    "letters": ["a"],
+    "beginning": "Tas",
+    "middle": "",
+    "end": "se"
+  },
+  {
+    "picture": "graphics/word_pictures/ofen.jpg",
+    "letters": ["o", "e"],
+    "beginning": "O",
+    "middle": "",
+    "end": "fen"
+  },
+  {
+    "picture": "",
+    "letters": ["ü"],
+    "beginning": "Stüh",
+    "middle": "",
+    "end": "le"
+  },
+  {
+    "picture": "graphics/word_pictures/auto.jpg",
+    "letters": ["o"],
+    "beginning": "Au",
+    "middle": "",
+    "end": "to"
+  },
+  {
+    "picture": "",
+    "letters": ["k"],
+    "beginning": "Fa",
+    "middle": "",
+    "end": "brik"
+  },
+  {
+    "picture": "",
+    "letters": ["u"],
+    "beginning": "Fuß",
+    "middle": "",
+    "end": "ball"
+  },
+  {
+    "picture": "",
+    "letters": ["i"],
+    "beginning": "Faul",
+    "middle": "",
+    "end": "tier"
+  },
+  {
+    "picture": "graphics/word_pictures/flugzeug.jpg",
+    "letters": ["F"],
+    "beginning": "Flug",
+    "middle": "",
+    "end": "zeug"
+  },
+  {
+    "picture": "",
+    "letters": ["ö"],
+    "beginning": "Kö",
+    "middle": "",
+    "end": "nig"
+  },
+  {
+    "picture": "graphics/word_pictures/linsen.jpg",
+    "letters": ["L"],
+    "beginning": "Lin",
+    "middle": "",
+    "end": "se"
+  },
+  {
+    "picture": "graphics/word_pictures/karotte.jpg",
+    "letters": ["R"],
+    "beginning": "Möh",
+    "middle": "",
+    "end": "re"
+  },
+  {
+    "picture": "graphics/word_pictures/nudel.jpg",
+    "letters": ["U"],
+    "beginning": "Nu",
+    "middle": "",
+    "end": "del"
+  },
+  {
+    "picture": "graphics/word_pictures/pinsel.jpg",
+    "letters": ["P"],
+    "beginning": "Pin",
+    "middle": "",
+    "end": "sel"
+  },
+  {
+    "picture": "",
+    "letters": ["A"],
+    "beginning": "Ro",
+    "middle": "",
+    "end": "sa"
+  },
+  {
+    "picture": "graphics/word_pictures/sofa.jpg",
+    "letters": ["O"],
+    "beginning": "So",
+    "middle": "",
+    "end": "fa"
+  },
+  {
+    "picture": "graphics/word_pictures/winter.jpg",
+    "letters": ["W"],
+    "beginning": "Win",
+    "middle": "",
+    "end": "ter"
+  },
+  {
+    "picture": "",
+    "letters": ["A"],
+    "beginning": "Ze",
+    "middle": "",
+    "end": "bra"
+  },
+  {
+    "picture": "graphics/word_pictures/zwiebel.jpg",
+    "letters": ["i"],
+    "beginning": "Zwie",
+    "middle": "",
+    "end": "bel"
+  },
+  {
+    "picture": "graphics/word_pictures/loewe.jpg",
+    "letters": ["W"],
+    "beginning": "Lö",
+    "middle": "",
+    "end": "we"
+  },
+  {
+    "picture": "graphics/word_pictures/kerze.jpg",
+    "letters": ["R"],
+    "beginning": "Ker",
+    "middle": "",
+    "end": "ze"
+  },
+  {
+    "picture": "graphics/word_pictures/insel_1.jpg",
+    "letters": ["L"],
+    "beginning": "In",
+    "middle": "",
+    "end": "sel"
+  },
+  {
+    "picture": "graphics/word_pictures/blume.jpg",
+    "letters": ["B"],
+    "beginning": "Blu",
+    "middle": "",
+    "end": "me"
+  },
+  {
+    "picture": "",
+    "letters": ["CH"],
+    "beginning": "Bü",
+    "middle": "",
+    "end": "cher"
+  },
+  {
+    "picture": "",
+    "letters": ["D"],
+    "beginning": "Erd",
+    "middle": "bee",
+    "end": "re"
+  },
+  {
+    "picture": "graphics/word_pictures/kaese.jpg",
+    "letters": ["Ä"],
+    "beginning": "Kä",
+    "middle": "",
+    "end": "se"
+  }
+]

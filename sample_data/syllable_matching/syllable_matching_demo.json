@@ -1,0 +1,132 @@
+{
+    "elements":[
+        {
+             "name": "Haus",
+             "picturePath" : "graphics/parrotA.png",
+             "classId" : 1,
+             "syllables": [0],
+             "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Hund",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+       },
+
+       {
+            "name": "Kopf",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+       },
+
+        {
+            "name": "Ball",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Tür",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+         },
+
+        {
+            "name": "Maus",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Laus",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Boot",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 1,
+            "syllables": [0],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Vogel",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Hose",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Jacke",
+            "picturePath" : "",
+            "classId" : 2,
+            "syllables": [0,2],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Hosenbund",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 3,
+            "syllables": [0,2,5],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Regentonne",
+            "picturePath" : "",
+            "classId" : 4,
+            "syllables": [0,2,5,8],
+            "wordType": "NORMAL"
+
+        },
+
+        {
+            "name": "Möhre",
+            "picturePath" : "graphics/parrotA.png",
+            "classId" : 2,
+            "syllables": [0,3],
+            "wordType": "FOOD"
+
+        }
+
+
+
+  ]
+}

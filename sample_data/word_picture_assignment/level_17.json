@@ -1,0 +1,269 @@
+{
+  "feedback": "Achte auf die Mitte des Wortes. Siehst du den orangenen Buchstaben h zwischen den roten und blauen Buchstaben? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackTTS": "Achte auf die Mitte des Wortes. Siehst du den orangenen Buchstaben ,h, zwischen den roten und blauen Buchstaben? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp17.mp3",
+  "correctWords": [
+    {
+      "word": "Schuhe",
+      "picturePath": "graphics/word_pictures/schuhe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Schuhe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Schu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "h",
+          "colour": "Orange"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Truhe",
+      "picturePath": "graphics/word_pictures/truhe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Truhe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Tru",
+          "colour": "Red"
+        },
+        {
+          "syllable": "h",
+          "colour": "Orange"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Krähe",
+      "picturePath": "graphics/word_pictures/kraehe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kraehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Krä",
+          "colour": "Red"
+        },
+        {
+          "syllable": "h",
+          "colour": "Orange"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Ehe",
+      "picturePath": "graphics/word_pictures/eheringe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Ehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "E",
+          "colour": "Red"
+        },
+        {
+          "syllable": "h",
+          "colour": "Orange"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Flöhe",
+      "picturePath": "graphics/word_pictures/floehe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Floehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Flö",
+          "colour": "Red"
+        },
+        {
+          "syllable": "h",
+          "colour": "Orange"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Feige",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ge",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Felder",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fel",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Karte",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kar",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Garten",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Gar",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Raupe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Rau",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Dame",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Da",
+          "colour": "Red"
+        },
+        {
+          "syllable": "me",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Elfe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "El",
+          "colour": "Red"
+        },
+        {
+          "syllable": "fe",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Eimer",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hafen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Red"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Insel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "In",
+          "colour": "Red"
+        },
+        {
+          "syllable": "sel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

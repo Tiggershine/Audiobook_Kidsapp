@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Körper",
+  "themePicture": "graphics/word_pictures/schulter.jpg",
+  "themeColorIndex": 1,
+  "elements": [
+    {
+      "name": "Auge",
+      "picturePath": "graphics/word_pictures/auge_2.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Finger",
+      "picturePath": "graphics/word_pictures/finger.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Nase",
+      "picturePath": "graphics/word_pictures/nase_2.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Zunge",
+      "picturePath": "graphics/word_pictures/zunge.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

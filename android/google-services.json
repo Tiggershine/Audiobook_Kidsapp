@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "547587726362",
+    "project_id": "filou-5430e",
+    "storage_bucket": "filou-5430e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547587726362:android:71eec47f7535faab27c5a3",
+        "android_client_info": {
+          "package_name": "app.smartenergy.kidsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547587726362-cilq83eknqinutrpcoeu2p4mmftpouqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.smartenergy.kidsapp",
+            "certificate_hash": "1b280a275f4434538cfb97b59b84dedcc3569b29"
+          }
+        },
+        {
+          "client_id": "547587726362-tbkai083nb9g645d1mpbq4snbarlck27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMbdPwREeh_m8Q4FdckEmO9sw0MeDdx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547587726362-tbkai083nb9g645d1mpbq4snbarlck27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547587726362-e29hhgrskujp8gen7u33i16e1729lboa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.smartenergy.mediaapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547587726362:android:52703fa014bcb90227c5a3",
+        "android_client_info": {
+          "package_name": "app.smartenergy.mediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547587726362-tbkai083nb9g645d1mpbq4snbarlck27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMbdPwREeh_m8Q4FdckEmO9sw0MeDdx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547587726362-tbkai083nb9g645d1mpbq4snbarlck27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547587726362-e29hhgrskujp8gen7u33i16e1729lboa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.smartenergy.mediaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

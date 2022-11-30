@@ -1,0 +1,5 @@
+{
+  "https_site_url": "http://localhost:3000",
+  "google_clientId": "547587726362-tbkai083nb9g645d1mpbq4snbarlck27.apps.googleusercontent.com",
+  "google_scope_email": "https://www.googleapis.com/auth/userinfo.email"
+}

@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Essen",
+  "themePicture": "graphics/word_pictures/spaghetti.jpg",
+  "themeColorIndex": 3,
+  "elements": [
+    {
+      "name": "Käse",
+      "picturePath": "graphics/word_pictures/kaese.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Gurke",
+      "picturePath": "graphics/word_pictures/gurke.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Butter",
+      "picturePath": "graphics/word_pictures/butter_1.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Suppe",
+      "picturePath": "graphics/word_pictures/suppe.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Tun-Wörter",
+  "themePicture": "graphics/word_pictures/niesen_2.jpg",
+  "themeColorIndex": 7,
+  "elements": [
+    {
+      "name": "gehen",
+      "picturePath": "graphics/word_pictures/gehen.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "lernen",
+      "picturePath": "graphics/word_pictures/lernen.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "niesen",
+      "picturePath": "graphics/word_pictures/niesen_2.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "essen",
+      "picturePath": "graphics/word_pictures/spaghetti.jpg",
+      "splitterPosition": 2
+    }
+  ]
+}

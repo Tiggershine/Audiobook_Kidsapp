@@ -1,0 +1,85 @@
+{
+  "BEACH": {
+    "EASY": [
+      ["Pal", "me"],
+      ["Son", "ne"],
+      ["Sand", "burg"],
+      ["Mu", "schel"],
+      ["Wol", "ke"]
+    ],
+    "MEDIUM": [
+      ["Wel", "le"],
+      ["Del", "fin"],
+      ["Qual", "le"],
+      ["Ko", "kos", "nuss"],
+      ["Se", "gel", "boot"]
+    ],
+    "HARD": [
+      ["Eis", "die", "le"],
+      ["Fla", "schen", "post"],
+      ["Son", "nen", "schirm"]
+    ]
+  },
+  "JUNGLE": {
+    "EASY": [
+      ["Vo", "gel"],
+      ["Af", "fe"],
+      ["Faul", "tier"]
+    ],
+    "MEDIUM": [
+      ["Re", "gen"],
+      ["Pu", "ma"],
+      ["Li", "a", "ne"],
+      ["Was", "ser", "fall"],
+      ["Kro", "ko", "dil"],
+      ["Re", "gen", "wald"]
+    ],
+    "HARD": [
+      ["Gi", "raf", "fe"],
+      ["E", "le", "fant"],
+      ["Pa", "pa", "gei"]
+    ]
+  },
+  "NURSERY": {
+    "EASY": [
+      ["Glo", "bus"],
+      ["We", "cker"],
+      ["Tep", "pich"],
+      ["Fo", "to"]
+    ],
+    "MEDIUM": [
+      ["De", "cke"],
+      ["Mur", "mel"],
+      ["Ka", "len", "der"],
+      ["Gar", "di", "ne"]
+    ],
+    "HARD": [
+      ["Kauf", "la", "den"],
+      ["Bil", "der", "buch"],
+      ["Schub", "la", "de"],
+      ["Bau", "klöt", "ze"]
+    ]
+  },
+  "CLASSROOM": {
+    "EASY": [
+      ["Krei", "de"],
+      ["Ta", "fel"],
+      ["Stem", "pel"],
+      ["Glo", "bus"],
+      ["Pla", "kat"],
+      ["Sche", "re"]
+    ],
+    "MEDIUM": [
+      ["Map", "pe"],
+      ["Ruck", "sack"],
+      ["Pau", "se"],
+      ["Li", "ne", "al"],
+      ["Brot", "do", "se"]
+    ],
+    "HARD": [
+      ["Fe", "ri", "en"],
+      ["Farb", "kas", "ten"],
+      ["Stun", "den", "plan"]
+    ]
+  }
+}

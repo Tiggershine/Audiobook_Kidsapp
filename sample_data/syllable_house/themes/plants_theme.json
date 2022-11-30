@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Pflanzen",
+  "themePicture": "graphics/word_pictures/baum.jpg",
+  "themeColorIndex": 4,
+  "elements": [
+    {
+      "name": "Rose",
+      "picturePath": "graphics/word_pictures/rose.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Bäume",
+      "picturePath": "graphics/word_pictures/baeume.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Minze",
+      "picturePath": "graphics/word_pictures/minze.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Tulpe",
+      "picturePath": "graphics/word_pictures/tulpe.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

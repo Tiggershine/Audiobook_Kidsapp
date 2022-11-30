@@ -1,0 +1,269 @@
+{
+  "feedback": "Achte auf die Mitte des Wortes. Siehst du den Buchstaben h zwischen der betonten und unbetonten Silbe? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackTTS": "Achte auf die Mitte des Wortes. Siehst du den Buchstaben ,h, zwischen der betonten und unbetonten Silbe? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp18.mp3",
+  "correctWords": [
+    {
+      "word": "Schuhe",
+      "picturePath": "graphics/word_pictures/schuhe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Schuhe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Schu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "h",
+          "colour": "Black"
+        },
+        {
+          "syllable": "e",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Truhe",
+      "picturePath": "graphics/word_pictures/truhe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Truhe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Tru",
+          "colour": "Black"
+        },
+        {
+          "syllable": "h",
+          "colour": "Black"
+        },
+        {
+          "syllable": "e",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Krähe",
+      "picturePath": "graphics/word_pictures/kraehe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kraehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Krä",
+          "colour": "Black"
+        },
+        {
+          "syllable": "h",
+          "colour": "Black"
+        },
+        {
+          "syllable": "e",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Ehe",
+      "picturePath": "graphics/word_pictures/eheringe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Ehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "E",
+          "colour": "Black"
+        },
+        {
+          "syllable": "h",
+          "colour": "Black"
+        },
+        {
+          "syllable": "e",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Flöhe",
+      "picturePath": "graphics/word_pictures/floehe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Floehe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Flö",
+          "colour": "Black"
+        },
+        {
+          "syllable": "h",
+          "colour": "Black"
+        },
+        {
+          "syllable": "e",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Feige",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fei",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ge",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Felder",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fel",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Karte",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Garten",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Gar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Raupe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Rau",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Dame",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Da",
+          "colour": "Black"
+        },
+        {
+          "syllable": "me",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Elfe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "El",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Eimer",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ei",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hafen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Insel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "In",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Kleidung",
+  "themePicture": "graphics/word_pictures/jacke_2.jpg",
+  "themeColorIndex": 2,
+  "elements": [
+    {
+      "name": "Hose",
+      "picturePath": "graphics/word_pictures/hose.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Kappe",
+      "picturePath": "graphics/word_pictures/kappe.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Gürtel",
+      "picturePath": "graphics/word_pictures/guertel.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Mantel",
+      "picturePath": "graphics/word_pictures/mantel.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

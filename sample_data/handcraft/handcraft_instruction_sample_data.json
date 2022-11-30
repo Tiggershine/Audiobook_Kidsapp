@@ -1,0 +1,4 @@
+{
+  "instructions_de": ["sample_data/handcraft/instructions/paperplane_test_de.json", "sample_data/handcraft/instructions/whale_origami_de.json"],
+  "instructions_en": ["sample_data/handcraft/instructions/paperplane_test_en.json", "sample_data/handcraft/instructions/whale_origami_en.json"]
+}

@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Märchen",
+  "themePicture": "graphics/word_pictures/hexe_2.jpg",
+  "themeColorIndex": 6,
+  "elements": [
+    {
+      "name": "Teufel",
+      "picturePath": "graphics/word_pictures/teufel_1.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Räuber",
+      "picturePath": "graphics/word_pictures/raeuber.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Elfe",
+      "picturePath": "graphics/word_pictures/elfe_2.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Ritter",
+      "picturePath": "graphics/word_pictures/ritter.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

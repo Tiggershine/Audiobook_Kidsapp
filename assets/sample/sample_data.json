@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BEACH",
+    "iconImagePath": "graphics/beach-icon.png",
+    "imagePath": "graphics/beach.jpg",
+    "themeMap": "BEACH",
+    "difficulties": [
+      {
+        "difficulty_level": "EASY",
+        "available": true
+      },
+      {
+        "difficulty_level": "MEDIUM",
+        "available": false
+      },
+      {
+        "difficulty_level": "HARD",
+        "available": false
+      }
+    ]
+  },
+  {
+    "name": "JUNGLE",
+    "iconImagePath": "graphics/jungle-icon.png",
+    "imagePath": "graphics/jungle.png",
+    "themeMap": "JUNGLE",
+    "difficulties": [
+      {
+        "difficulty_level": "EASY",
+        "available": false
+      },
+      {
+        "difficulty_level": "MEDIUM",
+        "available": false
+      },
+      {
+        "difficulty_level": "HARD",
+        "available": false
+      }
+    ]
+  },
+  {
+    "name": "NURSERY",
+    "iconImagePath": "graphics/nursery-icon.png",
+    "imagePath": "graphics/nursery.jpg",
+    "themeMap": "NURSERY",
+    "difficulties": [
+      {
+        "difficulty_level": "EASY",
+        "available": false
+      },
+      {
+        "difficulty_level": "MEDIUM",
+        "available": false
+      },
+      {
+        "difficulty_level": "HARD",
+        "available": false
+      }
+    ]
+  },
+  {
+    "name": "CLASSROOM",
+    "iconImagePath": "graphics/classroom-icon.png",
+    "imagePath": "graphics/classroom.jpg",
+    "themeMap": "CLASSROOM",
+    "difficulties": [
+      {
+        "difficulty_level": "EASY",
+        "available": false
+      },
+      {
+        "difficulty_level": "MEDIUM",
+        "available": false
+      },
+      {
+        "difficulty_level": "HARD",
+        "available": false
+      }
+    ]
+  }
+]

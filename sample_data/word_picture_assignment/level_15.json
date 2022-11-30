@@ -1,0 +1,321 @@
+{
+  "feedback": "Achte auf die Mitte des Wortes. Du hörst nur einen Laut und siehst 2 gleiche Buchstaben? Beide Buchstaben sind lila gefärbt? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackTTS": "Achte auf die Mitte des Wortes. Du hörst nur einen Laut und siehst 2 gleiche Buchstaben? Beide Buchstaben sind lila gefärbt? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp15.mp3",
+  "correctWords": [
+    {
+      "word": "Lippe",
+      "picturePath": "graphics/word_pictures/lippe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Lippe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Li",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pp",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Löffel",
+      "picturePath": "graphics/word_pictures/loeffel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Loeffel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Lö",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ff",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "el",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Puppe",
+      "picturePath": "graphics/word_pictures/puppe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Puppe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Pu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pp",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Sonne",
+      "picturePath": "graphics/word_pictures/sonne.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Sonne.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "So",
+          "colour": "Red"
+        },
+        {
+          "syllable": "nn",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Tasse",
+      "picturePath": "graphics/word_pictures/tasse.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Tasse.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Ta",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ss",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Flamme",
+      "picturePath": "graphics/word_pictures/flamme.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Flamme.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fla",
+          "colour": "Red"
+        },
+        {
+          "syllable": "mm",
+          "colour": "Purple"
+        },
+        {
+          "syllable": "e",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Feige",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ge",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Felder",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fel",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Insel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "In",
+          "colour": "Red"
+        },
+        {
+          "syllable": "sel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Note",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "No",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Dose",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Do",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lupe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Lu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Rabe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ra",
+          "colour": "Red"
+        },
+        {
+          "syllable": "be",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Rose",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ro",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Mantel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Man",
+          "colour": "Red"
+        },
+        {
+          "syllable": "tel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kerze",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ker",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kiste",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kis",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Monster",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Mon",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ster",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

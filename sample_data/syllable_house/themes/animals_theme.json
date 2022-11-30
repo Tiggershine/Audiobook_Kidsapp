@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Tiere",
+  "themePicture": "graphics/word_pictures/schnecke_1.jpg",
+  "themeColorIndex": 0,
+  "elements": [
+    {
+      "name": "Hase",
+      "picturePath": "graphics/word_pictures/hase.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Pudel",
+      "picturePath": "graphics/word_pictures/pudel.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Ente",
+      "picturePath": "graphics/word_pictures/ente.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Hummel",
+      "picturePath": "graphics/word_pictures/hummel.jpg",
+      "splitterPosition": 3
+    }
+  ]
+}

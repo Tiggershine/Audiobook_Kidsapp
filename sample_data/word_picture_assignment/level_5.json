@@ -1,0 +1,321 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Krone",
+      "picturePath": "graphics/word_pictures/krone_1.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Krone.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kro",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Knoten",
+      "picturePath": "graphics/word_pictures/knoten_1.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Knoten.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kno",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kleber",
+      "picturePath": "graphics/word_pictures/kleber.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kleber.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kle",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ber",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Knete",
+      "picturePath": "graphics/word_pictures/knete.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Knete.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kne",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Krake",
+      "picturePath": "graphics/word_pictures/krake.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Krake.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kra",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ke",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Kuscheltier",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ku",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schel",
+          "colour": "Black"
+        },
+        {
+          "syllable": "tier",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Käsekuchen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kä",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ku",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Katzenklappe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kat",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "klap",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kinderzimmer",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zim",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kirchturmglocke",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kirch",
+          "colour": "Black"
+        },
+        {
+          "syllable": "turm",
+          "colour": "Black"
+        },
+        {
+          "syllable": "glocke",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kaninchenfutter",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ka",
+          "colour": "Black"
+        },
+        {
+          "syllable": "nin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fut",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kürbissuppe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kür",
+          "colour": "Black"
+        },
+        {
+          "syllable": "bis",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sup",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kirschkuchen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kirsch",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ku",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kinderspielplatz",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "spiel",
+          "colour": "Black"
+        },
+        {
+          "syllable": "platz",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Klassenregeln",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Klas",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "re",
+          "colour": "Black"
+        },
+        {
+          "syllable": "geln",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "instructionId": 1,
+  "instructionTitle": "Whale",
+  "instructionStepCount": 10,
+  "instructionDifficulty": 3,
+  "instructionCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_thumbnail.png",
+  "materials": ["Ein Blatt Papier", "Ein Bleistift", "Eine Schere"],
+  "steps":
+  [
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_01.png",
+      "stepDescription": "Falte ein quadratisches **Blatt Papier** entlang von BE und BF, so dass die Kanten BA und BC sich an der Mittellinie BD treffen.",
+      "stepMaterials": ["Ein Blatt Papier"],
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_02.png",
+      "stepDescription": "Falte entlang GD und HD, so dass ED und FD sich an der Mittellinie BD treffen.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_03.png",
+      "stepDescription": "Zieh die Ecken A und C heraus und falte sie um, so dass sie sich an der Mittellinie BD treffen.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_04.png",
+      "stepDescription": "Falte zurück entlang MN und OP, so dass G und H sich auf der anderen Seite an der Mittellinie treffen.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_05.png",
+      "stepDescription": "Falte das Ganze nun in der Mitte entlang von BD, um den Körper zu bilden.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "Um die Flossen zu machen falte entlang von QR indem du C nach unten ziehst, weg vom Körper.",
+      "stepMaterials": ["Eine Schere"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "Tu dies auf beiden Seiten.",
+      "stepMaterials": ["Eine Schere"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_06.png",
+      "stepDescription": "Um nun die Schwanzflosse zu machen, falte entlang von ST und UV und schneide mit **einer Schere** entlang X und SD.",
+      "stepMaterials": ["Eine Schere"],
+      "stepNeedsParents": "true"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_07.png",
+      "stepDescription": "Öffne D1 und D2 entlang von VU.",
+      "stepMaterials": null,
+      "stepNeedsParents": "false"
+    },
+    {
+      "stepTitle": null,
+      "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/whale_08.png",
+      "stepDescription": "Zeichne mit dem **Bleistift** ein Gesicht.",
+      "stepMaterials": ["Ein Bleistift"],
+      "stepNeedsParents": "false"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "letters": [
+    {
+      "letter": "a",
+      "mp3Path": "sounds/letter_assignment/5-A.mp3",
+      "picture_path": "graphics/word_pictures/affe.jpg",
+      "similar_letters": ["c", "e", "o", "u", "v", "ä"],
+      "distinct_letters": ["b", "d", "f", "g", "h", "i", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "w", "x", "y", "z", "ö", "ü"]
+    },
+    {
+      "letter": "b",
+      "mp3Path": "sounds/letter_assignment/5-B.mp3",
+      "picture_path": "graphics/word_pictures/baeren.jpg",
+      "similar_letters": ["d", "e", "f", "p", "q", "r"],
+      "distinct_letters": ["a", "c", "g", "h", "i", "j", "k", "l", "m", "n", "o", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "c",
+      "mp3Path": "sounds/letter_assignment/5-C.mp3",
+      "picture_path": "graphics/word_pictures/cent.jpg",
+      "similar_letters": ["o","e","a","g","u","d"],
+      "distinct_letters": ["b", "f", "h", "i", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "d",
+      "mp3Path": "sounds/letter_assignment/5-D.mp3",
+      "picture_path": "graphics/word_pictures/diebe.jpg",
+      "similar_letters": ["b", "c", "p", "q"],
+      "distinct_letters": ["a", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "e",
+      "mp3Path": "sounds/letter_assignment/5-E.mp3",
+      "picture_path": "graphics/word_pictures/ente.jpg",
+      "similar_letters": ["g", "f", "a", "c", "o", "b", "l"],
+      "distinct_letters": ["d", "h", "i", "j", "k", "m", "n", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "f",
+      "mp3Path": "sounds/letter_assignment/5-F.mp3",
+      "picture_path": "graphics/word_pictures/ferkel.jpg",
+      "similar_letters": ["e","l","b","t","j","p","i"],
+      "distinct_letters": ["a", "c", "d", "g", "h", "k", "m", "n", "o", "q", "r", "s", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "g",
+      "mp3Path": "sounds/letter_assignment/5-G.mp3",
+      "picture_path": "graphics/word_pictures/geige.jpg",
+      "similar_letters": ["c", "e", "o", "q", "p", "b", "d"],
+      "distinct_letters": ["a", "f", "h", "i", "j", "k", "l", "m", "n", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "h",
+      "mp3Path": "sounds/letter_assignment/5-H.mp3",
+      "picture_path": "graphics/word_pictures/hunde.jpg",
+      "similar_letters": ["n", "u", "t"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "i", "j", "k", "l", "m", "o", "p", "q", "r", "s", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "i",
+      "mp3Path": "sounds/letter_assignment/5-I.mp3",
+      "picture_path": "graphics/word_pictures/insel_1.jpg",
+      "similar_letters": ["j", "l", "f", "t"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "g", "h", "k", "m", "n", "o", "p", "q", "r", "s", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "j",
+      "mp3Path": "sounds/letter_assignment/5-J.mp3",
+      "picture_path": "graphics/word_pictures/jaeger.jpg",
+      "similar_letters": ["l", "i", "t"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "k", "m", "n", "o", "p", "q", "r", "s", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "k",
+      "mp3Path": "sounds/letter_assignment/5-K.mp3",
+      "picture_path": "graphics/word_pictures/kueken.jpg",
+      "similar_letters": ["r", "x", "y"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "l", "m", "n", "o", "p", "q", "s", "t", "u", "v", "w", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "l",
+      "mp3Path": "sounds/letter_assignment/5-L.mp3",
+      "picture_path": "graphics/word_pictures/loewe.jpg",
+      "similar_letters": ["j", "i", "e", "f"],
+      "distinct_letters": ["a", "b", "c", "d", "g", "h", "k", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "m",
+      "mp3Path": "sounds/letter_assignment/5-M.mp3",
+      "picture_path": "graphics/word_pictures/moewe.jpg",
+      "similar_letters": ["n", "w", "v"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "o", "p", "q", "r", "s", "t", "u", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "n",
+      "mp3Path": "sounds/letter_assignment/5-N.mp3",
+      "picture_path": "graphics/word_pictures/nudel.jpg",
+      "similar_letters": ["m", "z", "h", "v", "a", "u"],
+      "distinct_letters": ["b", "c", "d", "e", "f", "g", "i", "j", "k", "l", "o", "p", "q", "r", "s", "t", "w", "x", "y", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "o",
+      "mp3Path": "sounds/letter_assignment/5-O.mp3",
+      "picture_path": "graphics/word_pictures/otter.jpg",
+      "similar_letters": ["a", "q", "p", "c", "d", "u", "e", "g", "b", "ö"],
+      "distinct_letters": ["f", "h", "i", "j", "k", "l", "m", "n", "r", "s", "t", "v", "w", "x", "y", "z", "ä", "ü"]
+    },
+    {
+      "letter": "p",
+      "mp3Path": "sounds/letter_assignment/5-P.mp3",
+      "picture_path": "graphics/word_pictures/puppe.jpg",
+      "similar_letters": ["q", "b", "r", "d", "f", "o"],
+      "distinct_letters": ["a", "c", "e", "g", "h", "i", "j", "k", "l", "m", "n", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "q",
+      "mp3Path": "sounds/letter_assignment/5-Q.mp3",
+      "picture_path": "graphics/word_pictures/qualle.jpg",
+      "similar_letters": ["p", "d", "b", "o", "ö"],
+      "distinct_letters": ["a", "c", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "r", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ü"]
+    },
+    {
+      "letter": "r",
+      "mp3Path": "sounds/letter_assignment/5-R.mp3",
+      "picture_path": "graphics/word_pictures/ritter.jpg",
+      "similar_letters": ["p", "b", "f", "n", "k"],
+      "distinct_letters": ["a", "c", "d", "e", "g", "h", "i", "j", "l", "m", "o", "q", "s", "t", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "s",
+      "mp3Path": "sounds/letter_assignment/5-S.mp3",
+      "picture_path": "graphics/word_pictures/sonne.jpg",
+      "similar_letters": ["z"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "t", "u", "v", "w", "x", "y", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "t",
+      "mp3Path": "sounds/letter_assignment/5-T.mp3",
+      "picture_path": "graphics/word_pictures/tore.jpg",
+      "similar_letters": ["f", "i", "j", "h"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "g", "k", "l", "m", "n", "o", "p", "q", "r", "s", "u", "v", "w", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "u",
+      "mp3Path": "sounds/letter_assignment/5-U.mp3",
+      "picture_path": "graphics/word_pictures/unke.jpg",
+      "similar_letters": ["v", "n", "a", "c", "h", "o", "ü"],
+      "distinct_letters": ["b", "d", "e", "f", "g", "i", "j", "k", "l", "m", "p", "q", "r", "s", "t", "w", "x", "y", "z", "ä", "ö"]
+    },
+    {
+      "letter": "v",
+      "mp3Path": "sounds/letter_assignment/5-V.mp3",
+      "picture_path": "graphics/word_pictures/vogel.jpg",
+      "similar_letters": ["w", "u", "y", "a", "n", "ü"],
+      "distinct_letters": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "o", "p", "q", "r", "s", "t", "x", "z", "ä", "ö"]
+    },
+    {
+      "letter": "w",
+      "mp3Path": "sounds/letter_assignment/5-W.mp3",
+      "picture_path": "graphics/word_pictures/woelfe.jpg",
+      "similar_letters": ["v", "m"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "n", "o", "p", "q", "r", "s", "t", "u", "x", "y", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "x",
+      "mp3Path": "sounds/letter_assignment/5-X.mp3",
+      "picture_path": "graphics/word_pictures/xylophon.jpg",
+      "similar_letters": ["y", "k"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "y",
+      "mp3Path": "sounds/letter_assignment/5-Y.mp3",
+      "picture_path": "graphics/word_pictures/yak.jpg",
+      "similar_letters": ["x", "k", "v"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "w", "z", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "z",
+      "mp3Path": "sounds/letter_assignment/5-Z.mp3",
+      "picture_path": "graphics/word_pictures/ziege.jpg",
+      "similar_letters": ["s", "n"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "o", "p", "q", "r", "t", "u", "v", "w", "x", "y", "ä", "ö", "ü"]
+    },
+    {
+      "letter": "ä",
+      "mp3Path": "",
+      "picture_path": "graphics/word_pictures/saege_1.jpg",
+      "similar_letters": ["ö", "ü", "a"],
+      "distinct_letters": ["b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+    },
+    {
+      "letter": "ö",
+      "mp3Path": "",
+      "picture_path": "graphics/word_pictures/floete.jpg",
+      "similar_letters": ["ä", "ü", "o", "q"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "p", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
+    },
+    {
+      "letter": "ü",
+      "mp3Path": "",
+      "picture_path": "graphics/word_pictures/huete_2.jpg",
+      "similar_letters": ["ä", "ö", "u", "v"],
+      "distinct_letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "w", "x", "y", "z"]
+    }
+  ]
+}

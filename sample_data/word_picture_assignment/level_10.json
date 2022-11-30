@@ -1,0 +1,309 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Schnorchel",
+      "picturePath": "graphics/word_pictures/schnorchel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Schnorchel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Schnor",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Schulter",
+      "picturePath": "graphics/word_pictures/schulter.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Schulter.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Schul",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Stempel",
+      "picturePath": "graphics/word_pictures/stempel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Stempel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Stem",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Stifte",
+      "picturePath": "graphics/word_pictures/stifte_1.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Stifte.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Stif",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pflanze",
+      "picturePath": "graphics/word_pictures/pflanze.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Pflanze.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Pflan",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Besenstiel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Be",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "stiel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Einkaufswagen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ein",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kaufs",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Erdbeerkuchen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Erd",
+          "colour": "Black"
+        },
+        {
+          "syllable": "beer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ku",
+          "colour": "Black"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Feuerwehr",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Feu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "er",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wehr",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hexenhaus",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Hex",
+          "colour": "Black"
+        },
+        {
+          "syllable": "en",
+          "colour": "Black"
+        },
+        {
+          "syllable": "haus",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kindergarten",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Klassenregeln",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Klas",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "re",
+          "colour": "Black"
+        },
+        {
+          "syllable": "geln",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lampenschirm",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Lam",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schirm",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Regenschirm",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Re",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schirm",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Wasserfarben",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Was",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ser",
+          "colour": "Black"
+        },
+        {
+          "syllable": "far",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ben",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

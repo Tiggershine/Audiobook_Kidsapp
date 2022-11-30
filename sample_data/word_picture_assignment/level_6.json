@@ -1,0 +1,319 @@
+{
+  "feedback": "Achte auf die Anzahl der roten Buchstaben hinter den Königen oder dem Umlaut.\nDie Könige \uD83D\uDC51 sind:\na e i o u \nDie Umlaute sind: ä ö ü",
+  "feedbackTTS": "Achte auf die Anzahl der roten Buchstaben hinter den Königen oder dem Umlaut. Die Könige sind: a, e, i, o, u. Die Umlaute sind: ä, ö, ü",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp6.mp3",
+  "correctWords": [
+    {
+      "word": "Blase",
+      "picturePath": "graphics/word_pictures/blase.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Blase.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Bla",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Bl", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Kleber",
+      "picturePath": "graphics/word_pictures/kleber.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kleber.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kle",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ber",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Kl", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "ber", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Krake",
+      "picturePath": "graphics/word_pictures/krake.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Krake.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kra",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ke",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Kr", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "ke", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Träne",
+      "picturePath": "graphics/word_pictures/traene.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Traene.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Trä",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Tr", "colour": "Red"},
+        {"syllable": "ä", "colour": "Yellow"},
+        {"syllable": "ne", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Blume",
+      "picturePath": "graphics/word_pictures/blume.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Blume.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Blu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "me",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Bl", "colour": "Red"},
+        {"syllable": "u", "colour": "Yellow"},
+        {"syllable": "me", "colour": "Blue"}
+      ]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Pflaster",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pflas",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Pfl", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "s", "colour": "Red"},
+        {"syllable": "ter", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Pferde",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pfer",
+          "colour": "Red"
+        },
+        {
+          "syllable": "de",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Pf", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "r", "colour": "Red"},
+        {"syllable": "de", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Pflanze",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pflan",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Pfl", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "n", "colour": "Red"},
+        {"syllable": "ze", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Prinzen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Prin",
+          "colour": "Red"
+        },
+        {
+          "syllable": "zen",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Pr", "colour": "Red"},
+        {"syllable": "i", "colour": "Yellow"},
+        {"syllable": "n", "colour": "Red"},
+        {"syllable": "zen", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Bremse",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Brem",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Br", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "m", "colour": "Red"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Stifte",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Stif",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "St", "colour": "Red"},
+        {"syllable": "i", "colour": "Yellow"},
+        {"syllable": "f", "colour": "Red"},
+        {"syllable": "te", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Stelzen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Stel",
+          "colour": "Red"
+        },
+        {
+          "syllable": "zen",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "St", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "l", "colour": "Red"},
+        {"syllable": "zen", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Sterne",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ster",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "St", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "r", "colour": "Red"},
+        {"syllable": "ne", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Schulter",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Schul",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "Sch", "colour": "Red"},
+        {"syllable": "u", "colour": "Yellow"},
+        {"syllable": "l", "colour": "Red"},
+        {"syllable": "ter", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Stempel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Stem",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "St", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "m", "colour": "Red"},
+        {"syllable": "pel", "colour": "Blue"}
+      ]
+    }
+  ]
+}

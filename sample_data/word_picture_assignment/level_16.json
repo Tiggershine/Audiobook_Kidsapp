@@ -1,0 +1,245 @@
+{
+  "feedback": "Achte auf die Mitte des Wortes. Du hörst nur einen Laut und siehst 2 gleiche Buchstaben? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackTTS": "Achte auf die Mitte des Wortes. Du hörst nur einen Laut und siehst 2 gleiche Buchstaben? Dann hast du das gesuchte Wort gefunden!",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp16.mp3",
+  "correctWords": [
+    {
+      "word": "Hummel",
+      "picturePath": "graphics/word_pictures/hummel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Hummel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Hum",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hummer",
+      "picturePath": "graphics/word_pictures/hummer_1.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Hummer.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Hum",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mer",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Himmel",
+      "picturePath": "graphics/word_pictures/himmel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Himmel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Him",
+          "colour": "Black"
+        },
+        {
+          "syllable": "mel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Affe",
+      "picturePath": "graphics/word_pictures/affe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Affe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Affe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kanne",
+      "picturePath": "graphics/word_pictures/kanne_1.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Kanne.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Kan",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Hafen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hase",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hamster",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ham",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ster",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Harfe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Har",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hemden",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Hem",
+          "colour": "Black"
+        },
+        {
+          "syllable": "den",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hose",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ho",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hunde",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Hun",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Herzen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Her",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kerze",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ker",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kiste",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kis",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

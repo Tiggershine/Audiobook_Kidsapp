@@ -1,0 +1,39 @@
+{
+"instructionId": 0,
+"instructionTitle": "Paper Plane",
+"instructionStepCount": 4,
+"instructionDifficulty": 1,
+"instructionCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/paper_plane_thumbnail.png",
+"materials": ["A piece of paper"],
+"steps":
+ [
+  {
+        "stepTitle": "Initial folding",
+        "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/paper_plane_01.png",
+        "stepDescription": "Fold the **piece of paper** in the middle along the long side.",
+        "stepMaterials": ["A piece of paper"],
+        "stepNeedsParents": "false"
+  },
+  {
+        "stepTitle": null,
+        "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/paper_plane_02.png",
+        "stepDescription": "Fold the piece of paper about one centimeter to the left of it along the initial fold. Do the same on the right side.",
+        "stepMaterials": null,
+        "stepNeedsParents": "false"
+  },
+  {
+        "stepTitle": null,
+        "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/paper_plane_03.png",
+        "stepDescription": "Take the left corner of paper and fold it to the fold left of the initial one, so that the newly folded paper creates a triangle.",
+        "stepMaterials": null,
+        "stepNeedsParents": "false"
+  },
+   {
+     "stepTitle": null,
+     "stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-handcraft/paper_plane_03.png",
+     "stepDescription": "Do the same on the right side.",
+     "stepMaterials": null,
+     "stepNeedsParents": "false"
+   }
+ ]
+}

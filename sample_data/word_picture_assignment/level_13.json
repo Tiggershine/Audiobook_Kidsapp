@@ -1,0 +1,309 @@
+{
+  "feedback": "Achte beim Lesen auf die Betonung. Rot ist betont und blau ist nicht betont.\nUngefähr so: Vogel\nAchte außerdem beim Lesen auf die Länge des Königs. Hier werden alle Könige lang gesprochen.\nDie Könige \uD83D\uDC51 sind:\na e i o u \nDie Umlaute sind: ä ö ü",
+  "feedbackTTS": "Achte beim Lesen auf die Betonung. Rot ist betont und blau ist nicht betont. Ungefähr so: Vogel. Achte außerdem beim Lesen auf die Länge des Königs. Hier werden alle Könige lang gesprochen. Die Könige sind: a, e, i, o, u. Die Umlaute sind: ä, ö, ü",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp13.mp3",
+  "correctWords": [
+    {
+      "word": "Dose",
+      "picturePath": "graphics/word_pictures/dose.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Dose.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Do",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "D", "colour": "Red"},
+        {"syllable": "o", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Hose",
+      "picturePath": "graphics/word_pictures/hose.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Hose.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Ho",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "H", "colour": "Red"},
+        {"syllable": "o", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Hase",
+      "picturePath": "graphics/word_pictures/hase.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Hase.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "H", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Nase",
+      "picturePath": "graphics/word_pictures/nase_2.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Nase.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Na",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "N", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Rose",
+      "picturePath": "graphics/word_pictures/rose.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Rose.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Ro",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "R", "colour": "Red"},
+        {"syllable": "o", "colour": "Yellow"},
+        {"syllable": "se", "colour": "Blue"}
+      ]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Nagel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Na",
+          "colour": "Red"
+        },
+        {
+          "syllable": "gel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "N", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "gel", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Nudel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Nu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "del",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "N", "colour": "Red"},
+        {"syllable": "u", "colour": "Yellow"},
+        {"syllable": "del", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Besen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Be",
+          "colour": "Red"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "B", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "sen", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Tafel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ta",
+          "colour": "Red"
+        },
+        {
+          "syllable": "fel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "T", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "fel", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Rabe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ra",
+          "colour": "Red"
+        },
+        {
+          "syllable": "be",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "R", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "be", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Pudel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "del",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "P", "colour": "Red"},
+        {"syllable": "u", "colour": "Yellow"},
+        {"syllable": "del", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Puder",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "P", "colour": "Red"},
+        {"syllable": "u", "colour": "Yellow"},
+        {"syllable": "der", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Feder",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fe",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "F", "colour": "Red"},
+        {"syllable": "e", "colour": "Yellow"},
+        {"syllable": "der", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Note",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "No",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "N", "colour": "Red"},
+        {"syllable": "o", "colour": "Yellow"},
+        {"syllable": "te", "colour": "Blue"}
+      ]
+    },
+    {
+      "word": "Kabel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ka",
+          "colour": "Red"
+        },
+        {
+          "syllable": "bel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[
+        {"syllable": "K", "colour": "Red"},
+        {"syllable": "a", "colour": "Yellow"},
+        {"syllable": "bel", "colour": "Blue"}
+      ]
+    }
+  ]
+}

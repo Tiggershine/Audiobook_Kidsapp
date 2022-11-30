@@ -1,0 +1,313 @@
+{
+  "feedback": "Achte auf die Länge der Wörter. Höre dir das Wort, das auf dem Bild abgebildet ist, noch einmal an.",
+  "feedbackTTS": "Achte auf die Länge der Wörter. Höre dir das Wort, das auf dem Bild abgebildet ist, noch einmal an.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp4.mp3",
+  "correctWords": [
+    {
+      "word": "Blume",
+      "picturePath": "graphics/word_pictures/blume.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Blume.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Blu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "me",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Bluse",
+      "picturePath": "graphics/word_pictures/bluse.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Bluse.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Blu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Flöte",
+      "picturePath": "graphics/word_pictures/floete.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Floete.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Flö",
+          "colour": "Black"
+        },
+        {
+          "syllable": "te",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Stufe",
+      "picturePath": "graphics/word_pictures/stufe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Stufe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Stu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fe",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Brezel",
+      "picturePath": "graphics/word_pictures/brezel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Brezel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Bre",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Marmelade",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Mar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "me",
+          "colour": "Black"
+        },
+        {
+          "syllable": "la",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Traumfänger",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Traum",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fän",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ger",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Plaudertasche",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Plau",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ta",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sche",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hafenstadt",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "stadt",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Wasserfarbe",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Was",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ser",
+          "colour": "Black"
+        },
+        {
+          "syllable": "far",
+          "colour": "Black"
+        },
+        {
+          "syllable": "be",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Affenzirkus",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Af",
+          "colour": "Black"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zir",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kus",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kleiderschrank",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Klei",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schrank",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Dosenöffner",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Do",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "öffner",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kinderwagen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kindergarten",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "der",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gar",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

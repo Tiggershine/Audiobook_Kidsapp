@@ -1,0 +1,289 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Pflaster",
+      "picturePath": "graphics/word_pictures/pflaster.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Pflaster.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Pflas",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ter",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pferde",
+      "picturePath": "graphics/word_pictures/pferde.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Pferde.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Pfer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pflanze",
+      "picturePath": "graphics/word_pictures/pflanze.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Pflanze.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Pflan",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Bremse",
+      "picturePath": "graphics/word_pictures/bremse.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Bremse.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Brem",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Prinzen",
+      "picturePath": "graphics/word_pictures/prinzen.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Prinzen.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Prin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zen",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Pflegeheim",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pfle",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ge",
+          "colour": "Black"
+        },
+        {
+          "syllable": "heim",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Papierkorb",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "pier",
+          "colour": "Black"
+        },
+        {
+          "syllable": "korb",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Bäckerei",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Bäc",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ke",
+          "colour": "Black"
+        },
+        {
+          "syllable": "rei",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Besenstiel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Be",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "stiel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Regenschirm",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Re",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schirm",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Regenwurm",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Re",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "wurm",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pausenhof",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pau",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "hof",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pferdestall",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pfer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        },
+        {
+          "syllable": "stall",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pausenbrot",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pau",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "brot",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Banane",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ba",
+          "colour": "Black"
+        },
+        {
+          "syllable": "na",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

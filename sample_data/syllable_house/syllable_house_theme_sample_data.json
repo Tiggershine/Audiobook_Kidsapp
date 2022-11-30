@@ -1,0 +1,12 @@
+{
+  "themes": [
+    "sample_data/syllable_house/themes/animals_theme.json",
+    "sample_data/syllable_house/themes/body_theme.json",
+    "sample_data/syllable_house/themes/clothes_theme.json",
+    "sample_data/syllable_house/themes/food_theme.json",
+    "sample_data/syllable_house/themes/plants_theme.json",
+    "sample_data/syllable_house/themes/school_utils_theme.json",
+    "sample_data/syllable_house/themes/tales_theme.json",
+    "sample_data/syllable_house/themes/verb_theme.json"
+  ]
+}

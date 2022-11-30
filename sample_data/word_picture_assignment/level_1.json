@@ -1,0 +1,322 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Note",
+      "picturePath": "graphics/word_pictures/note.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Note.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "No",
+          "colour": "Red"
+        },
+        {
+          "syllable": "te",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Lupe",
+      "picturePath": "graphics/word_pictures/lupe.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Lupe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Lu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "pe",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Dose",
+      "picturePath": "graphics/word_pictures/dose.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Dose.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Do",
+          "colour": "Red"
+        },
+        {
+          "syllable": "se",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Rabe",
+      "picturePath": "graphics/word_pictures/rabe_1",
+
+      "mp3Path": "sounds/word_picture_assignment/8-Rabe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Ra",
+          "colour": "Red"
+        },
+        {
+          "syllable": "be",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Feder",
+      "picturePath": "graphics/word_pictures/feder.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Feder.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fe",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Kindergarten",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Kin",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "gar",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ten",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Tafelkreide",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ta",
+          "colour": "Red"
+        },
+        {
+          "syllable": "fel",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "krei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "de",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Wunderkerze",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Wun",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "ker",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ze",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Autoreifen",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Au",
+          "colour": "Red"
+        },
+        {
+          "syllable": "to",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "rei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "fen",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Badewanne",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ba",
+          "colour": "Red"
+        },
+        {
+          "syllable": "de",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "wan",
+          "colour": "Red"
+        },
+        {
+          "syllable": "ne",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Vogelnest",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Vo",
+          "colour": "Red"
+        },
+        {
+          "syllable": "gel",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "nest",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Kleiderbügel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Klei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "der",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "bü",
+          "colour": "Red"
+        },
+        {
+          "syllable": "gel",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Zeichensprache",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Zei",
+          "colour": "Red"
+        },
+        {
+          "syllable": "chen",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "spra",
+          "colour": "Red"
+        },
+        {
+          "syllable": "che",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Hasenstall",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Ha",
+          "colour": "Red"
+        },
+        {
+          "syllable": "sen",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "stall",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Pommesbude",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Pom",
+          "colour": "Red"
+        },
+        {
+          "syllable": "mes",
+          "colour": "Blue"
+        },
+        {
+          "syllable": "bu",
+          "colour": "Red"
+        },
+        {
+          "syllable": "de",
+          "colour": "Blue"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

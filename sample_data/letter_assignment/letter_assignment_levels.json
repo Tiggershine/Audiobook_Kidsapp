@@ -1,0 +1,8 @@
+{
+  "levels": [
+    "sample_data/letter_assignment/levels/letter_assignment_level_1.json",
+    "sample_data/letter_assignment/levels/letter_assignment_level_2.json",
+    "sample_data/letter_assignment/levels/letter_assignment_level_3.json",
+    "sample_data/letter_assignment/levels/letter_assignment_level_4.json"
+  ]
+}

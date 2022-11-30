@@ -1,0 +1,151 @@
+{
+  "appVersion": "v1.0.0",
+  "books": [
+    {
+      "bookId": "book01",
+      "bookTitle": "Minions",
+      "bookCoverImagePath": "https://images.unsplash.com/photo-1515041219749-89347f83291a?ixlib=rb-1.2.1&auto=format&fit=crop&w=2167&q=80",
+      "bookVersion": "v1",
+      "coloringPages": [
+        {
+          "pageId": "mno-01",
+          "pageNumber": 1,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-01.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-01.jpg"
+        },
+        {
+          "pageId": "mno-02",
+          "pageNumber": 2,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-02.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-02.jpg"
+        },
+        {
+          "pageId": "mno-03",
+          "pageNumber": 3,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-03.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-03.jpg"
+        },
+        {
+          "pageId": "mno-04",
+          "pageNumber": 4,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-04.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-04.jpg"
+        },
+        {
+          "pageId": "mno-05",
+          "pageNumber": 5,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-05.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-05.jpg"
+        },
+        {
+          "pageId": "mno-06",
+          "pageNumber": 6,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-06.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-06.jpg"
+        },
+        {
+          "pageId": "mno-07",
+          "pageNumber": 7,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/mno-07.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/mno-07.jpg"
+        }
+      ]
+    },
+    {
+      "bookId": "book02",
+      "bookTitle": "Super Mario",
+      "bookCoverImagePath": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "bookVersion": "v1",
+      "coloringPages": [
+        {
+          "pageId": "spm-01",
+          "pageNumber": 1,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/spm-01.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/spm-01.jpg"
+        },
+        {
+          "pageId": "spm-02",
+          "pageNumber": 2,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/spm-02.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/spm-02.jpg"
+        },
+        {
+          "pageId": "spm-03",
+          "pageNumber": 3,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/spm-03.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/spm-03.jpg"
+        }
+      ]
+    },
+    {
+      "bookId": "book03",
+      "bookTitle": "Peppa pig",
+      "bookCoverImagePath": "https://pixy.org/src/458/4583261.jpeg",
+      "bookVersion": "v1",
+      "coloringPages": [
+        {
+          "pageId": "pp-01",
+          "pageNumber": 1,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pp-01.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pp-01.jpg"
+        },
+        {
+          "pageId": "pp-02",
+          "pageNumber": 2,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pp-02.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pp-02.jpg"
+        },
+        {
+          "pageId": "pp-03",
+          "pageNumber": 3,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pp-03.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pp-03.jpg"
+        },
+        {
+          "pageId": "pp-04",
+          "pageNumber": 4,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pp-04.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pp-04.jpg"
+        },
+        {
+          "pageId": "pp-05",
+          "pageNumber": 5,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pp-05.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pp-05.jpg"
+        }
+      ]
+    },
+    {
+      "bookId": "book04",
+      "bookTitle": "Pokémon",
+      "bookCoverImagePath": "https://images.pexels.com/photos/1716861/pexels-photo-1716861.jpeg?cs=srgb&dl=pexels-carolina-castilla-arias-1716861.jpg&fm=jpg",
+      "bookVersion": "v1",
+      "coloringPages": [
+        {
+          "pageId": "pkm-01",
+          "pageNumber": 1,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pkm-01.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pkm-01.jpg"
+        },
+        {
+          "pageId": "pkm-02",
+          "pageNumber": 2,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pkm-02.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pkm-02.jpg"
+        },
+        {
+          "pageId": "pkm-03",
+          "pageNumber": 3,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pkm-03.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pkm-03.jpg"
+        },
+        {
+          "pageId": "pkm-04",
+          "pageNumber": 4,
+          "pageThumbnailPath": "https://res.cloudinary.com/ded2i7xdq/image/upload/c_thumb,q_70/sample-coloring_book/pkm-04.jpg",
+          "pageImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-coloring_book/pkm-04.jpg"
+        }
+      ]
+    }
+  ]
+}

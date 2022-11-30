@@ -1,0 +1,28 @@
+{
+  "elements": [
+    {
+      "wordPairs": [["Insel", "Pinsel"], ["Hose", "Rose"], ["Tasse", "Kasse"], ["Zwerg", "Berg"], ["Tisch", "Fisch"]],
+      "picturePaths": [["graphics/word_pictures/insel_1.jpg", "graphics/word_pictures/pinsel.jpg"], ["graphics/word_pictures/hose.jpg", "graphics/word_pictures/rose.jpg"], ["graphics/word_pictures/tasse.jpg", "graphics/word_pictures/kasse.jpg"], ["graphics/word_pictures/zwerge.jpg", "graphics/word_pictures/berg.jpg"], ["", "graphics/word_pictures/fisch.jpg"]]
+    },
+    {
+      "wordPairs": [["Hase", "Nase"], ["Tuch", "Buch"], ["Suppe", "Puppe"], ["Sonne", "Tonne"], ["Maus", "Haus"]],
+      "picturePaths": [["graphics/word_pictures/hase.jpg", "graphics/word_pictures/nase_2.jpg"], ["", "graphics/word_pictures/buch.jpg"], ["graphics/word_pictures/suppe.jpg", "graphics/word_pictures/puppe.jpg"], ["graphics/word_pictures/sonne.jpg", "graphics/word_pictures/tonne.jpg"], ["graphics/word_pictures/maus.jpg", "graphics/word_pictures/haus.jpg"]]
+    },
+    {
+      "wordPairs": [["Zwerg", "Berg"], ["Mund", "Hund"], ["Herd", "Pferd"], ["Bad", "Rad"], ["Wurm", "Turm"]],
+      "picturePaths": [["graphics/word_pictures/zwerge.jpg", "graphics/word_pictures/berg.jpg"], ["graphics/word_pictures/mund.jpg", "graphics/word_pictures/hunde.jpg"], ["", "graphics/word_pictures/pferde.jpg"], ["", "graphics/word_pictures/rad.jpg"], ["graphics/word_pictures/wurm.jpg", "graphics/word_pictures/turm.jpg"]]
+    },
+    {
+      "wordPairs": [["Katze", "Tatze"], ["Tanne", "Pfanne"], ["Kopf", "Topf"], ["Bein", "Schwein"], ["Flasche", "Tasche"]],
+      "picturePaths": [["graphics/word_pictures/katze_1.jpg", "graphics/word_pictures/tatze.jpg"], ["", "graphics/word_pictures/pfanne.jpg"], ["graphics/word_pictures/kopf.jpg", ""], ["graphics/word_pictures/bein.jpg", "graphics/word_pictures/schwein_2.jpg"], ["graphics/word_pictures/flasche.jpg", "graphics/word_pictures/tasche.jpg"]]
+    },
+    {
+      "wordPairs": [["Lippe", "Wippe"], ["Zunge", "Junge"], ["Zahn", "Hahn"], ["Bank", "Schrank"], ["Taube", "Schraube"]],
+      "picturePaths": [["graphics/word_pictures/lippe.jpg", ""], ["graphics/word_pictures/zunge.jpg", "graphics/word_pictures/junge.jpg"], ["", ""], ["graphics/word_pictures/bank.jpg", "graphics/word_pictures/schrank.jpg"], ["graphics/word_pictures/taube.jpg", "graphics/word_pictures/schraube.jpg"]]
+    },
+    {
+      "wordPairs": [["Kreis", "Eis"], ["Fliege", "Ziege"], ["Zwei", "Drei"], ["Kuh", "Schuh"], ["Eule", "Beule"]],
+      "picturePaths": [["graphics/word_pictures/kreis.jpg", "graphics/word_pictures/eis_1.jpg"], ["graphics/word_pictures/fliege.jpg", "graphics/word_pictures/ziege.jpg"], ["graphics/word_pictures/zwei.jpg", "graphics/word_pictures/drei.jpg"], ["graphics/word_pictures/kuh.jpg", "graphics/word_pictures/schuhe.jpg"], ["graphics/word_pictures/eule.jpg", "graphics/word_pictures/beule.jpg"]]
+    }
+  ]
+}

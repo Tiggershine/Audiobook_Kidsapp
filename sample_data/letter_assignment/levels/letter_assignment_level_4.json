@@ -1,0 +1,9 @@
+{
+  "level_id": 4,
+  "similar_letters_amount": 2,
+  "distinct_letters_amount": 0,
+  "total_level_steps": 16,
+  "total_letters": 15,
+  "letter_combinations": [[5, 5, 5], [6, 5, 4], [7, 5, 3]],
+  "font_styles": ["ABeeZee","Comforaa","Cormorant","Exo","Rancho","Sans"]
+}

@@ -1,0 +1,122 @@
+{
+	"id": 0,
+	"variations": 1,
+	"title": "Rührei",
+	"difficulty": 1,
+	"generalTimeNeeded": "10m",
+	"coverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+	"recipes":[
+		{
+			"recipeId": 0.1,
+			"recipeTitle": "Rührei",
+			"recipeStepCount": 4,
+			"recipeCarbonFootprint": 2,
+			"recipeDifficulty": 1,
+			"recipeStandardPortionAmount": 1,
+			"recipeTimeNeeded": "10m",
+			"recipeIngredients": ["\nEier", "\nButter", "\nSalz", "\nPfeffer", "ml\nMilch"],
+			"recipeIcons": ["graphics/icons/ingredients_egg.png", "graphics/icons/ingredients_butter.png", "graphics/icons/ingredients_salt.png", "graphics/icons/ingredients_pepper.png", "graphics/icons/ingredients_milk.png"],
+			"recipeIngredientsAmount": [3, 0, 0, 0, 50],
+			"recipeUtensils": ["Pfanne", "Pfannenwender", "Herd", "Rührschüssel", "Schneebesen"],
+			"recipeCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+			"steps": [
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step01.png",
+					"stepDescription": "Zerbrich die Eier in die Schüssel. Würze mit Salz, Pfeffer, wenn gewollt füge Milch hinzu. Wenn fertig, so lange rühren bis es eine einheitliche Farbe bekommt.",
+					"stepIngredients": ["Eier", "Prise(n) Salz", "Prise(n) Pfeffer", "Milch oder Sahne (optional)"],
+					"stepUtensils": ["Rührschüssel", "Schneebesen"],
+					"stepAnimations": ["Mixing"],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step04.png",
+					"stepDescription": "Gib ein bisschen Margarine oder Butter in die Pfanne auf dem Herd und warte bis sie flüssig wird. Verteile es gut in der Pfanne sodass der Boden bedeckt ist.",
+					"stepIngredients": ["Ein bisschen Margarine oder Butter"],
+					"stepUtensils": ["Pfanne", "Herd"],
+					"stepAnimations": ["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step05.png",
+					"stepDescription": "Schütte alles in die Pfanne. Wenn es langsam fester wird, schiebe es mit dem Pfannenwender zusammen. Tu dies bis nichts mehr von dem Ei flüssig ist.",
+					"stepIngredients": [],
+					"stepUtensils": ["Pfanne", "Herd"],
+					"stepAnimations": ["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step06.png",
+					"stepDescription": "Fertig!",
+					"stepIngredients": [],
+					"stepUtensils": [],
+					"stepAnimations":[],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				}
+			]
+		},
+		{
+			"recipeId": 0.1,
+			"recipeTitle": "Rührei",
+			"recipeStepCount": 4,
+			"recipeCarbonFootprint": 3,
+			"recipeDifficulty": 1,
+			"recipeStandardPortionAmount": 1,
+			"recipeTimeNeeded": "10m",
+			"recipeIngredients": ["\nEier", "\nButter", "\nSalz", "\nPfeffer", "ml\nMilch"],
+			"recipeIcons": ["graphics/icons/ingredients_egg.png", "graphics/icons/ingredients_butter.png", "graphics/icons/ingredients_salt.png", "graphics/icons/ingredients_pepper.png", "graphics/icons/ingredients_milk.png"],
+			"recipeIngredientsAmount": [3, 0, 0, 0, 50],
+			"recipeUtensils": ["Pfanne", "Pfannenwender", "Herd", "Rührschüssel", "Schneebesen"],
+			"recipeCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+			"steps": [
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step01.png",
+					"stepDescription": "Zerbrich die Eier in die Schüssel. Würze mit Salz, Pfeffer, wenn gewollt füge Milch oder Sahne hinzu. Wenn fertig, so lange rühren bis es eine einheitliche Farbe bekommt.",
+					"stepIngredients": ["Eier", "Prise(n) Salz", "Prise(n) Pfeffer", "Milch oder Sahne (optional)"],
+					"stepUtensils": ["Rührschüssel", "Schneebesen"],
+					"stepAnimations": ["Mixing"],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step04.png",
+					"stepDescription": "Gib ein bisschen Margarine oder Butter in die Pfanne auf dem Herd und warte bis sie flüssig wird. Verteile es gut in der Pfanne sodass der Boden bedeckt ist.",
+					"stepIngredients": ["Ein bisschen Margarine oder Butter"],
+					"stepUtensils": ["Pfanne", "Herd"],
+					"stepAnimations": ["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step05.png",
+					"stepDescription": "Schütte alles in die Pfanne. Wenn es langsam fester wird, schiebe es mit dem Pfannenwender zusammen. Tu dies bis nichts mehr von dem Ei flüssig ist.",
+					"stepIngredients": [],
+					"stepUtensils": ["Pfanne", "Herd"],
+					"stepAnimations": ["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step06.png",
+					"stepDescription": "Fertig!",
+					"stepIngredients": [],
+					"stepUtensils": [],
+					"stepAnimations":[],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				}
+			]
+		}
+	]
+}

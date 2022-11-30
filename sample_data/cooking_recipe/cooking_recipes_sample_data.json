@@ -1,0 +1,4 @@
+{
+  "recipes_de": ["sample_data/cooking_recipe/recipes/scrambled_eggs_de.json"],
+  "recipes_en": ["sample_data/cooking_recipe/recipes/scrambled_eggs_en.json"]
+}

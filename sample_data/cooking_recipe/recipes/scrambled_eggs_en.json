@@ -1,0 +1,122 @@
+{
+	"id": 0,
+	"variations": 2,
+	"title": "Scrambled Eggs",
+	"difficulty": 1,
+	"generalTimeNeeded": "10m",
+	"coverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+	"recipes": [
+		{
+			"recipeId": 0.1,
+			"recipeTitle": "Scrambled Eggs",
+			"recipeStepCount": 4,
+			"recipeCarbonFootprint": 2,
+			"recipeDifficulty": 1,
+			"recipeStandardPortionAmount": 1,
+			"recipeTimeNeeded": "10m",
+			"recipeIngredients": ["\nEggs", "\nButter", "\nSalt", "\nPepper", "ml\nMilk"],
+			"recipeIcons": ["graphics/icons/ingredients_egg.png", "graphics/icons/ingredients_butter.png", "graphics/icons/ingredients_salt.png", "graphics/icons/ingredients_pepper.png", "graphics/icons/ingredients_milk.png"],
+			"recipeIngredientsAmount": [3, 0, 0, 0, 50],
+			"recipeUtensils": ["Pan", "Spatula", "Stove", "Mixing bowl", "Whisk"],
+			"recipeCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+			"steps": [
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step01.png",
+					"stepDescription": "Crack the eggs into a bowl. Add salt and pepper and optionally the milk if wanted. When done mix them until it gets an uniform color.",
+					"stepIngredients": ["Eggs", "Pinch(es) of salt", "Pinch(es) of pepper", "Milk or cream (optional)"],
+					"stepUtensils": ["Mixing bowl", "Whisk"],
+					"stepAnimations":["Mixing"],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": true,
+					"stepTime": [0,20]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step04.png",
+					"stepDescription": "Put a little bit of margarine or butter into the pan on the stove and wait till it becomes fluid. Spread it in the pan so it covers it completely.",
+					"stepIngredients": ["A bit of butter or margarine"],
+					"stepUtensils": ["Pan", "Stove"],
+					"stepAnimations":["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step05.png",
+					"stepDescription": "Pour everything into the pan. As it gets more solid, shove it together with the spatula. Do it until it is not fluid anymore.",
+					"stepIngredients": [],
+					"stepUtensils": ["Pan", "Stove"],
+					"stepAnimations":["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step06.png",
+					"stepDescription": "Done!",
+					"stepIngredients": [],
+					"stepUtensils": [],
+					"stepAnimations":[],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				}
+			]
+		},
+		{
+			"recipeId": 0.1,
+			"recipeTitle": "Scrambled Eggs",
+			"recipeStepCount": 4,
+			"recipeCarbonFootprint": 3,
+			"recipeDifficulty": 1,
+			"recipeStandardPortionAmount": 1,
+			"recipeTimeNeeded": "10m",
+			"recipeIngredients": ["\nEggs", "\nButter", "\nSalt", "\nPepper", "ml\nMilk"],
+			"recipeIcons": ["graphics/icons/ingredients_egg.png", "graphics/icons/ingredients_butter.png", "graphics/icons/ingredients_salt.png", "graphics/icons/ingredients_pepper.png", "graphics/icons/ingredients_milk.png"],
+			"recipeIngredientsAmount": [3, 0, 0, 0, 50],
+			"recipeUtensils": ["Pan", "Spatula", "Stove", "Mixing bowl", "Whisk"],
+			"recipeCoverImagePath": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg.jpg",
+			"steps": [
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step01.png",
+					"stepDescription": "Crack the eggs into a bowl. Add salt and pepper and optionally the milk or cream if wanted. When done mix them until it gets an uniform color.",
+					"stepIngredients": ["Eggs", "Pinch(es) of salt", "Pinch(es) of pepper", "Milk or cream (optional)"],
+					"stepUtensils": ["Mixing bowl", "Whisk"],
+					"stepAnimations":["Mixing"],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": true,
+					"stepTime": [0,20]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step04.png",
+					"stepDescription": "Put a little bit of margarine or butter into the pan on the stove and wait till it becomes fluid. Spread it in the pan so it covers it completely.",
+					"stepIngredients": ["A bit of butter or margarine"],
+					"stepUtensils": ["Pan", "Stove"],
+					"stepAnimations":["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step05.png",
+					"stepDescription": "Pour everything into the pan. As it gets more solid, shove it together with the spatula. Do it until it is not fluid anymore.",
+					"stepIngredients": [],
+					"stepUtensils": ["Pan", "Stove"],
+					"stepAnimations":["Pan", "Stove"],
+					"stepNeedsParents": true,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				},
+				{
+					"stepImage": "https://res.cloudinary.com/ded2i7xdq/image/upload/sample-cooking_recipes/cooking_recipe-scrambled_egg-step06.png",
+					"stepDescription": "Done!",
+					"stepIngredients": [],
+					"stepUtensils": [],
+					"stepAnimations":[],
+					"stepNeedsParents": false,
+					"stepNeedsTimer": false,
+					"stepTime": [0,0]
+				}
+			]
+		}
+	]
+}

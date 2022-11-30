@@ -1,0 +1,325 @@
+{
+  "feedback": "Achte auf die Länge der Wörter.",
+  "feedbackTTS": "Achte auf die Länge der Wörter.",
+  "feedbackMp3": "sounds/word_picture_assignment/8-Tipp1.mp3",
+  "correctWords": [
+    {
+      "word": "Finger",
+      "picturePath": "graphics/word_pictures/finger.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Finger.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fin",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ger",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Ferse",
+      "picturePath": "graphics/word_pictures/ferse.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Ferse.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "se",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Ferkel",
+      "picturePath": "graphics/word_pictures/ferkel.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Ferkel.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Fer",
+          "colour": "Black"
+        },
+        {
+          "syllable": "kel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Farbe",
+      "picturePath": "graphics/word_pictures/farbe_2.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Farbe.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Far",
+          "colour": "Black"
+        },
+        {
+          "syllable": "be",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Feuer",
+      "picturePath": "graphics/word_pictures/feuer.jpg",
+      "mp3Path": "sounds/word_picture_assignment/8-Feuer.mp3",
+      "colouredSyllables": [
+        {
+          "syllable": "Feu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "er",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ],
+  "wrongWords": [
+    {
+      "word": "Fußballstadion",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fuß",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ball",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sta",
+          "colour": "Black"
+        },
+        {
+          "syllable": "di",
+          "colour": "Black"
+        },
+        {
+          "syllable": "on",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Frühlingsblume",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Früh",
+          "colour": "Black"
+        },
+        {
+          "syllable": "lings",
+          "colour": "Black"
+        },
+        {
+          "syllable": "blu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "me",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Fahrradsattel",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fahr",
+          "colour": "Black"
+        },
+        {
+          "syllable": "rad",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sat",
+          "colour": "Black"
+        },
+        {
+          "syllable": "tel",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Fliegenfalle",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Flie",
+          "colour": "Black"
+        },
+        {
+          "syllable": "gen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "falle",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Flugzeugabsturz",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Flug",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zeug",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ab",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sturz",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Fotoapparat",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Foto",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ap",
+          "colour": "Black"
+        },
+        {
+          "syllable": "parat",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Fabrikgebäuide",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fa",
+          "colour": "Black"
+        },
+        {
+          "syllable": "brik",
+          "colour": "Black"
+        },
+        {
+          "syllable": "ge",
+          "colour": "Black"
+        },
+        {
+          "syllable": "bäu",
+          "colour": "Black"
+        },
+        {
+          "syllable": "de",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Falschenhals",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fla",
+          "colour": "Black"
+        },
+        {
+          "syllable": "schen",
+          "colour": "Black"
+        },
+        {
+          "syllable": "hals",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Fernbedienung",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fern",
+          "colour": "Black"
+        },
+        {
+          "syllable": "be",
+          "colour": "Black"
+        },
+        {
+          "syllable": "die",
+          "colour": "Black"
+        },
+        {
+          "syllable": "nung",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    },
+    {
+      "word": "Französischbuch",
+      "picturePath": "graphics/parrotA.png",
+      "mp3Path": "",
+      "colouredSyllables": [
+        {
+          "syllable": "Fran",
+          "colour": "Black"
+        },
+        {
+          "syllable": "zö",
+          "colour": "Black"
+        },
+        {
+          "syllable": "sisch",
+          "colour": "Black"
+        },
+        {
+          "syllable": "buch",
+          "colour": "Black"
+        }
+      ],
+      "colouredSyllablesFeedback":[]
+    }
+  ]
+}

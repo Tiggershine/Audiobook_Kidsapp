@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>547587726362-j6mk6iv62eg2cqpsg2hjr89hb8q2ig8i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.547587726362-j6mk6iv62eg2cqpsg2hjr89hb8q2ig8i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>547587726362-cilq83eknqinutrpcoeu2p4mmftpouqt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBebMDVmbUvdQC-US1MxZjQuj4IipEGmIk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>547587726362</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.smartenergy.kidsapp</string>
+	<key>PROJECT_ID</key>
+	<string>filou-5430e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>filou-5430e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:547587726362:ios:438a601c18ae9bef27c5a3</string>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+{
+  "themeTitle": "Schulsachen",
+  "themePicture": "graphics/word_pictures/buch.png",
+  "themeColorIndex": 5,
+  "elements": [
+    {
+      "name": "Füller",
+      "picturePath": "graphics/word_pictures/fueller.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Tafel",
+      "picturePath": "graphics/word_pictures/tafel.jpg",
+      "splitterPosition": 2
+    },
+    {
+      "name": "Pinsel",
+      "picturePath": "graphics/word_pictures/pinsel.jpg",
+      "splitterPosition": 3
+    },
+    {
+      "name": "Stifte",
+      "picturePath": "graphics/word_pictures/stifte_1.jpg",
+      "splitterPosition": 4
+    }
+  ]
+}

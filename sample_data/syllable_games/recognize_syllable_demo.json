@@ -1,0 +1,160 @@
+{
+  "elements": [
+    {
+      "word": ["Ha", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Ro", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Ho", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Au", "ge"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Man", "tel"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["In", "sel"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["En", "te"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Do", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["La", "den"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Fe", "der"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Kin", "der"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Blu", "me"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Schu", "le"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Af", "fe"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Pup", "pe"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Him", "mel"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Tas", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Lu", "pe"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Kis", "te"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Bir", "ne"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Tin", "te"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Flug", "zeug"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Kä", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Re", "gen"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Pau", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Ta", "fel"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Lam", "pe"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Bröt", "chen"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Was", "ser"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Bre", "zel"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Pflau", "me"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Schuh", "he"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Brem", "se"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Ster", "ne"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Ker", "ze"],
+      "color": ["red", "blue"]
+    },
+    {
+      "word": ["Au", "to", "rei", "fen"],
+      "color": ["red", "blue", "red", "blue"]
+    },
+    {
+      "word": ["Ba", "de", "zim", "mer"],
+      "color": ["red", "blue", "red", "blue"]
+    },
+    {
+      "word": ["Blu", "men", "kas", "ten"],
+      "color": ["red", "blue", "red", "blue"]
+    },
+    {
+      "word": ["Gum", "mi", "bär", "chen"],
+      "color": ["red", "blue", "red", "blue"]
+    }
+  ]
+}
