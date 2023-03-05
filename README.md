@@ -31,7 +31,7 @@ This project is for **UI/UX development of Audiobook**, which is the part of **K
 
 ## My List
 
-- Provides a page where user can save a list of thieri favorite books.
+- Provides a page where user can save a list of their favorite books.
 - It displays the last played audiobook and provides a UI to continue playing.
 
 
